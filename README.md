@@ -22,15 +22,14 @@ To achieve this, I used the following tools and technologies:
 These tools enabled me to effectively extract insights and meaning from the data.</p>
 
 <h1>Results:</h1>
-<p> At first, I tried to find out the price range and arranged them in ascending order: 
-The price range are:
-1    4438
-2    3113
-3    1405
+<p> At first, I tried to find out the price range and arranged them in ascending order: <br>
+The price range are:<br>
+1    4438<br>
+2    3113<br>
+3    1405<br>
 4     586
-.....................
-And then I plotted the bar chart with different colors of the above price range![download](https://github.com/user-attachments/assets/c6539451-408b-4587-90d0-398fab7d1b4a)
-s and I am showing the chart in below:
+.......................................................................................<br>
+And then I plotted the bar chart with different colors of the above price range and to view the the chart click this at link in below:<br>![download](https://github.com/user-attachments/assets/c6539451-408b-4587-90d0-398fab7d1b4a)
   I identified the required results of the task3:<br>
 A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
 
