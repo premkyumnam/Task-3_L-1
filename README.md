@@ -29,8 +29,9 @@ The price range are:
 3    1405
 4     586
 .....................
-And then I plotted the bar chart with different colors, fontsize=12, fontwieght=bold, text color= black with the labels,
-I identified the required results of the task3:<br>
+And then I plotted the bar chart with different colors of the above price range![download](https://github.com/user-attachments/assets/c6539451-408b-4587-90d0-398fab7d1b4a)
+s and I am showing the chart in below:
+  I identified the required results of the task3:<br>
 A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
 
 Explore the full project on LinkedIn and GitHub:<br>
