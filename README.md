@@ -22,16 +22,24 @@ To achieve this, I used the following tools and technologies:
 These tools enabled me to effectively extract insights and meaning from the data.</p>
 
 <h1>Results:</h1>
-<p> At first, I tried to find out the price range and arranged them in ascending order: <br>
+<p> At first, I tried to find out the price range category and arranged them in ascending order: <br>
 The price range are:<br>
 1    4438<br>
 2    3113<br>
 3    1405<br>
 4     586
 .......................................................................................<br>
-And then I plotted the bar chart with different colors of the above price range and to view the the chart click this at link in below:<br>![download](https://github.com/user-attachments/assets/c6539451-408b-4587-90d0-398fab7d1b4a)
+And then I plotted the bar chart with different colors of the above price range category. Here is the link to view the chart. :<br>![download](https://github.com/user-attachments/assets/c6539451-408b-4587-90d0-398fab7d1b4a)
+  And then i found out the Price range distribution and I got the required reults:<br>
+  Price Range Distribution:<br>
+  1. Price Range 1: 46.51% of restaurants
+  2. Price Range 2: 32.62% of restaurants
+  P3. rice Range 3: 14.72% of restaurants
+  4. Price Range 4: 6.14% of restaurants
+Thus, I got the required keys of the given two questions
+  
   I identified the required results of the task3:<br>
-A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
+A huge thanks to Conifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
 
 Explore the full project on LinkedIn and GitHub:<br>
 https://www.linkedin.com/in/yumnam-premkumar-singh-6347a8145/<br>
