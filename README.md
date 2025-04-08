@@ -36,9 +36,7 @@ And then I plotted the bar chart with different colors of the above price range 
   2. Price Range 2: 32.62% of restaurants<br>
   3. rice Range 3: 14.72% of restaurants<br>
   4. Price Range 4: 6.14% of restaurants<br>
-Thus, I got the required keys of the given two questions <br>
-  
-  I identified the required results of the task3:<br>
+Thus, I got the required keys of the given two questions of the task3:<br><br> 
 A huge thanks to Conifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
 
 Explore the full project on LinkedIn and GitHub:<br>
