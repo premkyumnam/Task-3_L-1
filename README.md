@@ -30,11 +30,11 @@ The price range are:<br>
 4     586
 <br><br>
 And then I plotted the bar chart with different colors of the above price range category. Here is the link to view the chart. :<br>![download](https://github.com/user-attachments/assets/c6539451-408b-4587-90d0-398fab7d1b4a)
-  And then i found out the Price range distribution and I got the required reults:<br>
+  And then i found out the Price range distribution and I got the required reults:<br><br>
   Price Range Distribution:<br>
   1. Price Range 1: 46.51% of restaurants<br>
   2. Price Range 2: 32.62% of restaurants<br>
-  P3. rice Range 3: 14.72% of restaurants<br>
+  3. rice Range 3: 14.72% of restaurants<br>
   4. Price Range 4: 6.14% of restaurants<br>
 Thus, I got the required keys of the given two questions <br>
   
