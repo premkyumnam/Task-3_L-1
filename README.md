@@ -41,7 +41,7 @@ And then I plotted the bar chart with different colors of the above price range 
       <tr><td>1</td><td>Price Range 1: 46.51% of restaurants</td></tr>
        <tr><td>2</td><td>Price Range 2: 32.62% of restaurants </tr>
         <tr><td>3</td><td>Price Range 3: 14.72% of restaurants</td></td></tr>
-         <tr><td>4</td><td>586</td></tr> Price Range 4: 6.14% of restaurants 
+         <tr><td>4</td><td>Price Range 4: 6.14% of restaurants </td></tr> 
     </tbody>
   </table>
 <br<<br>
