@@ -6,7 +6,7 @@
   <h2>Projec Review: </h2>
 In this project, I analyzed a restaurant dataset to identify the following two key questions:
 
-1. To create the chisxtogram or xbar chart to visualize the distribution of price range among the restaurants.<br> 
+1. To create the chisxtogram or bar chart to visualize the distribution of price range among the restaurants.<br> 
 2. To calculate the percentage of restaurants in each price range category.
 
 <h1>Tools & Technologies:</h1>
@@ -30,7 +30,7 @@ The price range are:<br>
 4     586
 <br><br>
 And then I plotted the bar chart with different colors of the above price range category. Here is the link to view the chart. :<br>![download](https://github.com/user-attachments/assets/c6539451-408b-4587-90d0-398fab7d1b4a)
-  And then i found out the Price range distribution and I got the required reults:<br><br>
+  And then i found out the Price range distribution> Here is the required reults:<br><br>
   Price Range Distribution:<br>
   1. Price Range 1: 46.51% of restaurants<br>
   2. Price Range 2: 32.62% of restaurants<br>
