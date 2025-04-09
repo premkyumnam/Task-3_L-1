@@ -36,10 +36,15 @@ These tools enabled me to effectively extract insights and meaning from the data
 And then I plotted the bar chart with different colors of the above price range category. Here is the link to view the chart. :<br>![download](https://github.com/user-attachments/assets/c6539451-408b-4587-90d0-398fab7d1b4a)
   And then i found out the Price range distribution> Here is the required reults:<br><br>
   Price Range Distribution:<br>
-  1. Price Range 1: 46.51% of restaurants<br>
-  2. Price Range 2: 32.62% of restaurants<br>
-  3. rice Range 3: 14.72% of restaurants<br>
-  4. Price Range 4: 6.14% of restaurants<br>
+  <table>
+    <tbody>
+      <tr><td>1</td><td>Price Range 1: 46.51% of restaurants</td></tr>
+       <tr><td>2</td><td>Price Range 2: 32.62% of restaurants </tr>
+        <tr><td>3</td><td>Price Range 3: 14.72% of restaurants</td></td></tr>
+         <tr><td>4</td><td>586</td></tr> Price Range 4: 6.14% of restaurants 
+    </tbody>
+  </table>
+<br<<br>
 Thus, I got the required keys of the given two questions of the task3:<br><br> 
 A huge thanks to Conifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
 
