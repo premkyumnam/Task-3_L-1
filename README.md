@@ -33,7 +33,7 @@ These tools enabled me to effectively extract insights and meaning from the data
     </tbody>
   </table>
 <br>
-And then I plotted the bar chart with different colors of the above price range category. Here is the link to view the chart. :<br><br>![download](https://github.com/user-attachments/assets/c6539451-408b-4587-90d0-398fab7d1b4a)
+And then I plotted the bar chart with different colors of the above price range category. Here is the link to view the chart. :<br><br>
   And then i found out the Price range distribution> Here is the required reults:<br><br>
   Price Range Distribution:<br>
   <table>
