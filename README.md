@@ -1,7 +1,7 @@
 <html>
   <body>
     
-  <h1> Third Task of Level 1</h1>
+  <h1> Third Task of Level 1: PRICE RANGE DISTRIBUTION</h1>
     
   <h2>Projec Review: </h2>
 In this project, I analyzed a restaurant dataset to identify the following two key questions:
