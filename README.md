@@ -47,7 +47,7 @@ And then I plotted the bar chart with different colors of the above price range 
   </table>
 <br<<br>
 Thus, I got the required keys of the given two questions of the task3:<br><br> 
-A huge thanks to Conifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
+A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Every step in this journey is helping me grow, and I'm excited for what's next.<br><br>
 
 Explore the full project on LinkedIn and GitHub:<br>
 https://www.linkedin.com/in/yumnam-premkumar-singh-6347a8145/<br>
